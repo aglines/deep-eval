@@ -175,4 +175,5 @@ secrets
 
 # input and output
 input/
+input_archive/
 output/
